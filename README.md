@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+## Math
+|  |
+| ------- |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 <!---LeetCode Topics End-->
