@@ -54,22 +54,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
