@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
