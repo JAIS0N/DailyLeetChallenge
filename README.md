@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
