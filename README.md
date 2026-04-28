@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0199-binary-tree-right-side-view) |
@@ -166,9 +169,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
