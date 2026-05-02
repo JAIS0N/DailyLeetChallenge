@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0788-rotated-digits](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0788-rotated-digits) |
 | [2463-minimum-total-distance-traveled](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2463-minimum-total-distance-traveled) |
 ## Sorting
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
