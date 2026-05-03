@@ -1,35 +1,28 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        col = set()
-        posDiag = set()  # (r + c) is constant on each ↗ diagonal
-        negDiag = set()  # (r - c) is constant on each ↘ diagonal
 
-        res = []
-        board = [["."] * n for i in range(n)]
+        col = set()
+        posDiag = set()
+        negDiag = set()
+        count = 0
 
         def backtrack(r):
+            nonlocal count
             if r == n:
-                copy = ["".join(row) for row in board]
-                res.append(copy)
+                count += 1
                 return
-
             for c in range(n):
                 if c in col or (r + c) in posDiag or (r - c) in negDiag:
                     continue
-
                 col.add(c)
                 posDiag.add(r + c)
                 negDiag.add(r - c)
-                board[r][c] = "Q"
 
                 backtrack(r + 1)
 
                 col.remove(c)
                 posDiag.remove(r + c)
                 negDiag.remove(r - c)
-                board[r][c] = "."
-            
 
         backtrack(0)
-        return len(res)
-        
+        return count
