@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Prefix Sum
 |  |
@@ -187,10 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
