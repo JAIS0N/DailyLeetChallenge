@@ -31,6 +31,5 @@ class Solution:
             
 
         backtrack(0)
-        count = sum(1 for item in res if isinstance(item, list))
-        return count
+        return len(res)
         
