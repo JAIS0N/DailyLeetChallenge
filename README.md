@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Prefix Sum
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
