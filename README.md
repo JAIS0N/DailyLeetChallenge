@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0295-find-median-from-data-stream) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1861-rotating-the-box) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## String Matching
 |  |
