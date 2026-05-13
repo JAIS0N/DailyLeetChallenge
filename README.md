@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
 ## Counting
 |  |
