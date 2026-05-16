@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0417-pacific-atlantic-water-flow) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
