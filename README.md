@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3074-apple-redistribution-into-boxes](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2784-check-if-array-is-good) |
+| [3074-apple-redistribution-into-boxes](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3074-apple-redistribution-into-boxes](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 ## Union-Find
 |  |
 | ------- |
