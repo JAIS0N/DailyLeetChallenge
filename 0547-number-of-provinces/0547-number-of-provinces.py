@@ -1,21 +1,31 @@
 class Solution:
-    def findCircleNum(self, isConnected: List[List[int]]) -> int:
+    def findCircleNum(self, isConnected):
         n = len(isConnected)
-        visited = set()
 
-        def dfs(city):
-            visited.add(city)
+        parent = list(range(n))
 
-            for neighbor in range(n):
-                if isConnected[city][neighbor] == 1 and neighbor not in visited:
-                    dfs(neighbor)
+        def find(x):
+            if parent[x] != x:
+                parent[x] = find(parent[x])  # Path compression
+            return parent[x]
 
-        provinces = 0
+        def union(x, y):
+            rootX = find(x)
+            rootY = find(y)
 
-        for city in range(n):
-            if city not in visited:
-                dfs(city)
-                provinces += 1
+            if rootX != rootY:
+                parent[rootY] = rootX
 
-        return provinces
-            
+        # Traverse adjacency matrix
+        for i in range(n):
+            for j in range(n):
+                if isConnected[i][j] == 1:
+                    union(i, j)
+
+        # Count unique roots
+        provinces = set()
+
+        for i in range(n):
+            provinces.add(find(i))
+
+        return len(provinces)
