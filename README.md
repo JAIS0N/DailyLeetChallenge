@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0788-rotated-digits](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1340-jump-game-v) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
