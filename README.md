@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2833-furthest-point-from-origin) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0788-rotated-digits](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Sorting
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
 ## Counting
 |  |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
