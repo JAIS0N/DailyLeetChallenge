@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0295-find-median-from-data-stream) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0198-house-robber) |
