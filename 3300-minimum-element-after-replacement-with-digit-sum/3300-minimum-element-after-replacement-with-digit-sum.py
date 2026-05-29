@@ -1,13 +1,14 @@
 class Solution(object):
     def minElement(self, nums):
-        ans = float('inf')
+        minimum_value = float('inf')
 
-        for num in nums:
+        for number in nums:
             digit_sum = 0
-            while num > 0:
-                digit_sum += num % 10
-                num //= 10
 
-            ans = min(ans, digit_sum)
+            while number > 0:
+                digit_sum = digit_sum + (number % 10)
+                number = number // 10
 
-        return ans
+            minimum_value = min(minimum_value, digit_sum)
+
+        return minimum_value
