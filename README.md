@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
