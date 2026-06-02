@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0295-find-median-from-data-stream) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1861-rotating-the-box) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2126-destroying-asteroids) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3074-apple-redistribution-into-boxes) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
 |  |
 | ------- |
