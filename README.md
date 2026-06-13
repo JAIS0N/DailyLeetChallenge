@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0198-house-robber) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
