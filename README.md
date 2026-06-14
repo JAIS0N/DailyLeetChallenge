@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
