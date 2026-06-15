@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0213-house-robber-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0875-koko-eating-bananas) |
 | [1340-jump-game-v](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0704-binary-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
