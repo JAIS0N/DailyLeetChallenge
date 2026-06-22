@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0981-time-based-key-value-store) |
+| [1189-maximum-number-of-balloons](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0981-time-based-key-value-store](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0981-time-based-key-value-store) |
+| [1189-maximum-number-of-balloons](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Design
 |  |
