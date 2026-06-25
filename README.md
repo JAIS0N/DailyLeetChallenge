@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
@@ -282,11 +286,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -365,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
