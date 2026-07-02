@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-longest-common-suffix-queries](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3093-longest-common-suffix-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0295-find-median-from-data-stream) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0547-number-of-provinces) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -381,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
