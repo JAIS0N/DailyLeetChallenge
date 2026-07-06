@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0875-koko-eating-bananas) |
+| [1288-remove-covered-intervals](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0295-find-median-from-data-stream) |
+| [1288-remove-covered-intervals](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1833-maximum-ice-cream-bars) |
