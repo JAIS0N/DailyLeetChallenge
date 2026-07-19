@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0981-time-based-key-value-store) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3620-network-recovery-pathways) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
