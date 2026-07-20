@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1345-jump-game-iv) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [1260-shift-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1861-rotating-the-box) |
