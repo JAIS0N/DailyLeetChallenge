@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
@@ -426,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
