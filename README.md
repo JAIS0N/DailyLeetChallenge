@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sliding Window
 |  |
 | ------- |
