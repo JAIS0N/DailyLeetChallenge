@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1345-jump-game-iv) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2615-sum-of-distances) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0981-time-based-key-value-store) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1871-jump-game-vii) |
 ## Memoization
 |  |
