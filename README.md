@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0981-time-based-key-value-store) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0547-number-of-provinces) |
 | [1345-jump-game-iv](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1345-jump-game-iv) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
