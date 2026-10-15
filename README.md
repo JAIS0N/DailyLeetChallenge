@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-longest-common-suffix-queries](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3093-longest-common-suffix-queries) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
 |  |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JAIS0N/DailyLeetChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
